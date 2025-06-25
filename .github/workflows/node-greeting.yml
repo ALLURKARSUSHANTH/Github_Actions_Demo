@@ -19,4 +19,4 @@ jobs:
           node-version: '18'
 
       - name: Log greeting message
-        run: echo "Hello from @ALLURKARSUSHANTH
+        run: echo "Hello from @ALLURKARSUSHANTH"
