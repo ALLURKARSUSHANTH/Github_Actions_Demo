@@ -20,4 +20,3 @@ jobs:
 
       - name: Log greeting message
         run: echo "Hello from @ALLURKARSUSHANTH
-"
